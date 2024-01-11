@@ -1,0 +1,83 @@
+div{
+    display: block;
+}
+.tbl{
+    text-align: center;
+    padding: 20px;
+}
+.nav{
+    color: azure;
+    font-size: 38px;
+    padding: 25px;
+    background-color: blueviolet;
+    text-decoration: none;
+}
+.nav a:hover{
+    color: aqua;
+    cursor: pointer;
+}
+.poem1{
+    font-family: 'luckiest Guy';
+    color: aqua;
+}
+h1{
+    text-align: center;
+    font-size: 70px;
+}
+h1{
+    display: block;
+    /*font-size:2em;*/
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.poem1:first-letter{
+    color: greenyellow;
+    font-size: 120px;
+}
+.para{
+    font-family: 'poppins';
+    font-weight: bold;
+    color: teal;
+}
+.para:first-line{
+    color: brown;
+}
+p{
+    text-align: center;
+    font-size: 25px;
+}
+.poem2{
+    font-family:'pacifico';
+    color: chocolate
+}
+.poem2:first-letter{
+    color:yellow
+    font-size:120px;
+}
+.poem3{
+    font-family: 'satisfy';
+    color:#ff0000
+}
+.poem3:first-letter{
+    color: hwb(150 0% 0%);
+    font-size: 120px;
+}
+.poem4{
+    font-family: 'pacifico';
+    color: hwb(251 0% 0%);
+}
+.poem4:first-letter{
+    color:hwb(184 0% 0%)
+    font-size:120px;
+}
+.poem5{
+    font-family: 'pinkchicken';
+    color: hsl(323, 100%, 50%);
+}
+.poem5:first-letter{
+    color: hwb(155 0% 0%);
+    font-size: 120px;
+}
